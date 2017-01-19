@@ -13,3 +13,6 @@ Proof of concept: can I  authenticate with NFC
 ### denkweg 1
 + bij het leggen van de smartphone nabij een nfc tag, moet de gsm bepaalde gegevens (username + password) versturen. 
 + door op de aanmeldknop te klikken, via een bookmarklet die gegevens ergens ophalen en in de html input velden steken
+
+### denkweg 2
++ arduino gebruiken in combo met arduino nfc shield
