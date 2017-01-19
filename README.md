@@ -16,3 +16,4 @@ Proof of concept: can I  authenticate with NFC
 
 ### denkweg 2
 + arduino gebruiken in combo met arduino nfc shield
++ https://www.youtube.com/watch?v=WgLV5X1iWWw
