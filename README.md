@@ -6,4 +6,5 @@ Proof of concept: can I  authenticate with NFC
 + RFID en NFC research
 + Bookmarklets research
 
-+ aanmaak van eerste bookmarklets
++ testen van simpele bookmarklets
+- https://code.tutsplus.com/tutorials/create-bookmarklets-the-right-way--net-18154
