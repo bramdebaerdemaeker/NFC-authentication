@@ -73,5 +73,13 @@
 
     </div>
 </div>
+<script type="text/javascript">
+    document.getElementById('income').onkeydown = function(e) {
+        if (e.keyCode == 13) {
+            document.getElementById('gaan').click();
+        }
+    };
+
+</script>
 
 @endsection
